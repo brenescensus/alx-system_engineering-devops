@@ -1,2 +1,2 @@
 #!/bin/bash
-list all files on iam typr
+list all files on iam iam symbolic
