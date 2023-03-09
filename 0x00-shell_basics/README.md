@@ -1,2 +1,2 @@
 #!/bin/bash
-moving a file
+removing betty file
