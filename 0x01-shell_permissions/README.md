@@ -1,2 +1,2 @@
 #!/bin/bash
-adds execution permission to the owner, the group owner and the other users, to the file
+everybody
