@@ -1,2 +1,2 @@
 #!/bin/bash
-cretes directory name first directory
+moving a file
