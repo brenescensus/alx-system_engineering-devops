@@ -1,2 +1,2 @@
 #!/bin/bash
-directories permission
+directorie mine
