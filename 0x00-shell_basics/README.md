@@ -1,2 +1,2 @@
 #!/bin/bash
-removing  a directory
+changing  a directory to previous
