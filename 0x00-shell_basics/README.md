@@ -1,2 +1,2 @@
 #!/bin/bash
-removing betty file
+removing  a directory
