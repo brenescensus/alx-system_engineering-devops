@@ -1,2 +1,2 @@
 #!/bin/bash
-list all files on boot
+list all files on iam typr
