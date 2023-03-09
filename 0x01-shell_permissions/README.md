@@ -1,2 +1,2 @@
 #!/bin/bash
-directorie vin sraff hello
+directorie vin betty hello
