@@ -1,2 +1,2 @@
 #!/bin/bash
-Display current directory contents, including with long type format
+cretes directory name first directory
