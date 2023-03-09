@@ -1,2 +1,2 @@
 #!/bin/bash
-directorie changse
+directorie vin sraff hello
