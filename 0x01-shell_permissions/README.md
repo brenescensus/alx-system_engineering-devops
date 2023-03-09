@@ -1,2 +1,2 @@
 #!/bin/bash
-directorie mine
+directorie change
