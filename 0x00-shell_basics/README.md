@@ -1,2 +1,2 @@
 #!/bin/bash
-changing  a directory to previous
+list all files on boot
