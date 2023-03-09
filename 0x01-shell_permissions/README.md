@@ -1,2 +1,2 @@
 #!/bin/bash
-execute file
+multiple permission
