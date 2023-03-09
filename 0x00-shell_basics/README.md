@@ -1,2 +1,2 @@
 #!/bin/bash
-reading directories
+reading school
