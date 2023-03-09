@@ -1,1 +1,2 @@
-print working directory path
+#!/bin/bash
+return  directory to home
