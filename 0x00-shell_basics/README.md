@@ -1,2 +1,1 @@
-#!/bin/bash
-print current working directory
+print working directory path
