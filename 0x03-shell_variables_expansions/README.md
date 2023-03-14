@@ -1,2 +1,2 @@
 #!/bin/bash
-print decimal to hexadecimal
+encoding and decoding
