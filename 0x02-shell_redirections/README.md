@@ -1,2 +1,2 @@
 #!/bin/bash
-2file contentssss
+last ten lines
