@@ -1,2 +1,2 @@
 #!/bin/bash
-prints all
+prints variables and results
