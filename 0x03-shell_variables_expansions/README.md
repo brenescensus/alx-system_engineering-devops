@@ -1,2 +1,2 @@
 #!/bin/bash
-count directories in path
+print environment variables
