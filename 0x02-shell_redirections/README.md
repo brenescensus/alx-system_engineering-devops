@@ -1,2 +1,2 @@
 #!/bin/bash
-what next
+hid this word
