@@ -1,2 +1,2 @@
 #!/bin/bash
-finf empty directories
+files with gif extension
