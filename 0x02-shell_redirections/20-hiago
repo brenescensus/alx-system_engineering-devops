@@ -1,2 +1,2 @@
 #!/bin/bash
-remove cC
+tr -d "cC"
