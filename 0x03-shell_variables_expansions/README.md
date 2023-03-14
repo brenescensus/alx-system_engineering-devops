@@ -1,2 +1,2 @@
 #!/bin/bash
-local varibale
+global variable craetion
