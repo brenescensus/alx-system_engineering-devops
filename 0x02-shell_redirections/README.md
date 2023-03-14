@@ -1,2 +1,2 @@
 #!/bin/bash
-unique files
+find the word
