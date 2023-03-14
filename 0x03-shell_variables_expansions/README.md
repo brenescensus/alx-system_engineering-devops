@@ -1,2 +1,2 @@
 #!/bin/bash
-a breath and love
+a change from base 2 to 10
