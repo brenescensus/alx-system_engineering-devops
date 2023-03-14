@@ -1,2 +1,2 @@
 #!/bin/bash
-print environment variables
+print environment variable and local variables
