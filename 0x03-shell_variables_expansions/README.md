@@ -1,2 +1,2 @@
 #!/bin/bash
-a combination except 00
+print 2 decimal place
