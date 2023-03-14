@@ -1,2 +1,2 @@
 #!/bin/bash
-global variable craetion
+additional of 128 lines
