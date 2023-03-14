@@ -1,2 +1,2 @@
 #!/bin/bash
-adivide and rules
+a breath and love
