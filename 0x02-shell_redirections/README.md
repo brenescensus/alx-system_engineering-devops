@@ -1,2 +1,2 @@
 #!/bin/bash
-file contents
+duplicate last line
