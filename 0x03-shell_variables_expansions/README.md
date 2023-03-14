@@ -1,2 +1,2 @@
 #!/bin/bash
-encoding and decoding
+prints all
