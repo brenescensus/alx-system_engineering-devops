@@ -1,1 +1,2 @@
-prints hello word
+#!/bin/bash
+echo "\"(Ôo)'"confused smiley
