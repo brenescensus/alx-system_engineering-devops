@@ -1,2 +1,2 @@
 #!/bin/bash
-hid this word
+letter only
