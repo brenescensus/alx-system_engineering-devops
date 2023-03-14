@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "\"(Ôo)'"confused smiley
+2file contents
