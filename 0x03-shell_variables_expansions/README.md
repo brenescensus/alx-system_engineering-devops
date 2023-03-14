@@ -1,2 +1,2 @@
 #!/bin/bash
-print 2 decimal place
+print decimal to hexadecimal
