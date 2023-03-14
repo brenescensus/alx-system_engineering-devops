@@ -1,2 +1,2 @@
 #!/bin/bash
-a change from base 2 to 10
+a combination except 00
