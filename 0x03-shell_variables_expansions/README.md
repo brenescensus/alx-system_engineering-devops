@@ -1,2 +1,2 @@
 #!/bin/bash
-alis statement
+hello user
