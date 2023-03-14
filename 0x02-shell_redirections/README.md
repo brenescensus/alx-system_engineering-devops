@@ -1,2 +1,2 @@
 #!/bin/bash
-count the word
+what next
