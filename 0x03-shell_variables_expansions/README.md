@@ -1,2 +1,2 @@
 #!/bin/bash
-adding action
+count directories in path
