@@ -1,2 +1,2 @@
 #!/bin/bash
-directories  and home
+finf empty directories
